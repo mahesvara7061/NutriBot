@@ -1,0 +1,26 @@
+{
+  "admin": {
+    "password": "password",
+    "role": "admin"
+  },
+  "alice": {
+    "password": "alice_pass123",
+    "role": "user"
+  },
+  "bob": {
+    "password": "bob_secret!",
+    "role": "user"
+  },
+  "mahesvara": {
+    "password": "123",
+    "role": "user"
+  },
+  "mahesvara_new": {
+    "password": "123",
+    "role": "user"
+  },
+  "hung": {
+    "password": "hung123",
+    "role": "user"
+  }
+}

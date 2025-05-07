@@ -1,0 +1,437 @@
+[
+    {
+    "timestamp": "2025-04-01T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 545.6,
+      "Protein": 34.9,
+      "Carbs": 84.5,
+      "Fat": 18.6,
+      "Fiber": 4.5,
+      "Sugar": 7.9
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 471.5 kcal  \nProtein: 39.4 g  \nCarbs: 58.9 g  \nFat: 18.1 g  \nFiber: 5.8 g  \nSugar: 9.6 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-04-02T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 527.4,
+      "Protein": 27.3,
+      "Carbs": 70.5,
+      "Fat": 12.5,
+      "Fiber": 9.4,
+      "Sugar": 5.8
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 510.2 kcal  \nProtein: 26.1 g  \nCarbs: 54.8 g  \nFat: 23.9 g  \nFiber: 8.5 g  \nSugar: 8.8 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-04-04T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 549.7,
+      "Protein": 37.1,
+      "Carbs": 59.0,
+      "Fat": 28.7,
+      "Fiber": 2.7,
+      "Sugar": 4.4
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 679.8 kcal  \nProtein: 28.7 g  \nCarbs: 89.8 g  \nFat: 16.1 g  \nFiber: 2.9 g  \nSugar: 7.6 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-04-05T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 452.9,
+      "Protein": 31.4,
+      "Carbs": 89.0,
+      "Fat": 16.0,
+      "Fiber": 10.0,
+      "Sugar": 7.0
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 598.3 kcal  \nProtein: 39.5 g  \nCarbs: 80.8 g  \nFat: 15.4 g  \nFiber: 5.4 g  \nSugar: 9.7 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-04-06T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 619.4,
+      "Protein": 34.6,
+      "Carbs": 83.5,
+      "Fat": 15.0,
+      "Fiber": 3.6,
+      "Sugar": 3.5
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 555.1 kcal  \nProtein: 27.5 g  \nCarbs: 55.1 g  \nFat: 26.6 g  \nFiber: 5.7 g  \nSugar: 5.7 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-04-07T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 628.3,
+      "Protein": 26.7,
+      "Carbs": 60.6,
+      "Fat": 28.2,
+      "Fiber": 5.5,
+      "Sugar": 5.6
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 639.3 kcal  \nProtein: 32.4 g  \nCarbs: 76.0 g  \nFat: 23.6 g  \nFiber: 5.2 g  \nSugar: 9.4 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-04-09T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 554.2,
+      "Protein": 32.3,
+      "Carbs": 80.0,
+      "Fat": 28.5,
+      "Fiber": 2.3,
+      "Sugar": 5.3
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 660.2 kcal  \nProtein: 27.7 g  \nCarbs: 87.0 g  \nFat: 29.6 g  \nFiber: 6.3 g  \nSugar: 5.5 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-04-10T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 621.0,
+      "Protein": 39.1,
+      "Carbs": 88.9,
+      "Fat": 30.0,
+      "Fiber": 2.0,
+      "Sugar": 9.2
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 578.3 kcal  \nProtein: 29.8 g  \nCarbs: 67.6 g  \nFat: 19.9 g  \nFiber: 7.3 g  \nSugar: 9.2 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-04-12T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 583.9,
+      "Protein": 36.7,
+      "Carbs": 56.9,
+      "Fat": 23.2,
+      "Fiber": 3.0,
+      "Sugar": 9.4
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 608.9 kcal  \nProtein: 25.9 g  \nCarbs: 80.7 g  \nFat: 20.5 g  \nFiber: 9.0 g  \nSugar: 7.9 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-04-13T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 634.7,
+      "Protein": 38.5,
+      "Carbs": 60.3,
+      "Fat": 19.6,
+      "Fiber": 4.4,
+      "Sugar": 9.5
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 632.0 kcal  \nProtein: 31.2 g  \nCarbs: 61.7 g  \nFat: 15.2 g  \nFiber: 9.4 g  \nSugar: 3.0 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-04-15T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 674.6,
+      "Protein": 30.5,
+      "Carbs": 73.1,
+      "Fat": 12.9,
+      "Fiber": 6.3,
+      "Sugar": 8.2
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 661.9 kcal  \nProtein: 36.9 g  \nCarbs: 75.0 g  \nFat: 10.9 g  \nFiber: 6.3 g  \nSugar: 2.5 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-04-16T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 506.2,
+      "Protein": 31.9,
+      "Carbs": 72.6,
+      "Fat": 22.3,
+      "Fiber": 6.8,
+      "Sugar": 6.2
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 630.1 kcal  \nProtein: 35.9 g  \nCarbs: 61.2 g  \nFat: 17.4 g  \nFiber: 3.4 g  \nSugar: 5.2 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-04-17T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 500.7,
+      "Protein": 33.9,
+      "Carbs": 59.3,
+      "Fat": 28.3,
+      "Fiber": 2.9,
+      "Sugar": 5.8
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 462.4 kcal  \nProtein: 34.2 g  \nCarbs: 81.0 g  \nFat: 23.3 g  \nFiber: 2.6 g  \nSugar: 5.5 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-04-18T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 470.0,
+      "Protein": 26.9,
+      "Carbs": 83.4,
+      "Fat": 21.3,
+      "Fiber": 6.8,
+      "Sugar": 4.9
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 535.1 kcal  \nProtein: 36.9 g  \nCarbs: 63.7 g  \nFat: 18.5 g  \nFiber: 5.8 g  \nSugar: 8.9 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-04-20T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 636.1,
+      "Protein": 34.8,
+      "Carbs": 77.0,
+      "Fat": 24.2,
+      "Fiber": 9.7,
+      "Sugar": 2.5
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 459.2 kcal  \nProtein: 32.0 g  \nCarbs: 82.7 g  \nFat: 27.1 g  \nFiber: 8.4 g  \nSugar: 3.7 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-04-21T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 660.9,
+      "Protein": 36.1,
+      "Carbs": 70.9,
+      "Fat": 15.5,
+      "Fiber": 7.5,
+      "Sugar": 8.2
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 598.8 kcal  \nProtein: 38.9 g  \nCarbs: 54.9 g  \nFat: 15.3 g  \nFiber: 6.5 g  \nSugar: 9.9 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-04-22T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 653.9,
+      "Protein": 26.0,
+      "Carbs": 61.2,
+      "Fat": 14.6,
+      "Fiber": 9.1,
+      "Sugar": 3.3
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 643.4 kcal  \nProtein: 25.6 g  \nCarbs: 84.8 g  \nFat: 11.5 g  \nFiber: 3.9 g  \nSugar: 7.6 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-04-23T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 646.5,
+      "Protein": 26.7,
+      "Carbs": 61.7,
+      "Fat": 15.0,
+      "Fiber": 9.8,
+      "Sugar": 8.3
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 616.0 kcal  \nProtein: 32.5 g  \nCarbs: 80.7 g  \nFat: 24.5 g  \nFiber: 8.1 g  \nSugar: 10.0 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-04-24T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 523.5,
+      "Protein": 33.2,
+      "Carbs": 58.6,
+      "Fat": 29.2,
+      "Fiber": 5.0,
+      "Sugar": 4.3
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 491.4 kcal  \nProtein: 27.5 g  \nCarbs: 84.1 g  \nFat: 21.4 g  \nFiber: 5.1 g  \nSugar: 2.0 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-04-25T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 636.8,
+      "Protein": 39.4,
+      "Carbs": 63.0,
+      "Fat": 20.2,
+      "Fiber": 6.8,
+      "Sugar": 3.8
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 537.5 kcal  \nProtein: 27.7 g  \nCarbs: 88.9 g  \nFat: 24.4 g  \nFiber: 6.3 g  \nSugar: 5.5 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-04-26T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 495.5,
+      "Protein": 29.7,
+      "Carbs": 66.8,
+      "Fat": 28.8,
+      "Fiber": 9.7,
+      "Sugar": 2.9
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 553.9 kcal  \nProtein: 27.3 g  \nCarbs: 89.3 g  \nFat: 11.8 g  \nFiber: 8.2 g  \nSugar: 6.4 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-04-27T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 453.5,
+      "Protein": 32.0,
+      "Carbs": 77.5,
+      "Fat": 27.8,
+      "Fiber": 8.8,
+      "Sugar": 5.9
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 640.6 kcal  \nProtein: 34.7 g  \nCarbs: 85.3 g  \nFat: 22.6 g  \nFiber: 5.1 g  \nSugar: 7.0 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-05-01T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 576.3,
+      "Protein": 34.0,
+      "Carbs": 89.1,
+      "Fat": 11.4,
+      "Fiber": 6.1,
+      "Sugar": 8.4
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 495.4 kcal  \nProtein: 33.1 g  \nCarbs: 69.2 g  \nFat: 21.7 g  \nFiber: 9.6 g  \nSugar: 7.1 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-05-02T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 661.5,
+      "Protein": 27.5,
+      "Carbs": 64.7,
+      "Fat": 14.9,
+      "Fiber": 5.6,
+      "Sugar": 5.9
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 674.7 kcal  \nProtein: 28.2 g  \nCarbs: 81.1 g  \nFat: 22.2 g  \nFiber: 9.3 g  \nSugar: 2.8 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-05-03T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 558.7,
+      "Protein": 30.7,
+      "Carbs": 84.9,
+      "Fat": 27.8,
+      "Fiber": 6.8,
+      "Sugar": 5.1
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 516.4 kcal  \nProtein: 37.7 g  \nCarbs: 84.0 g  \nFat: 24.8 g  \nFiber: 6.5 g  \nSugar: 8.9 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-05-04T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 683.7,
+      "Protein": 34.5,
+      "Carbs": 76.7,
+      "Fat": 10.3,
+      "Fiber": 8.1,
+      "Sugar": 6.7
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 518.0 kcal  \nProtein: 26.4 g  \nCarbs: 85.7 g  \nFat: 25.2 g  \nFiber: 5.4 g  \nSugar: 7.3 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-05-06T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 541.5,
+      "Protein": 29.7,
+      "Carbs": 71.8,
+      "Fat": 12.5,
+      "Fiber": 9.5,
+      "Sugar": 5.6
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 696.8 kcal  \nProtein: 28.5 g  \nCarbs: 61.6 g  \nFat: 22.7 g  \nFiber: 3.1 g  \nSugar: 2.2 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-05-07T00:00:00.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 552.1,
+      "Protein": 26.2,
+      "Carbs": 55.7,
+      "Fat": 22.1,
+      "Fiber": 7.7,
+      "Sugar": 3.3
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 481.6 kcal  \nProtein: 27.6 g  \nCarbs: 76.6 g  \nFat: 17.8 g  \nFiber: 4.4 g  \nSugar: 9.8 g\n\n(Bản mô tả giả lập cho dữ liệu dinh dưỡng ngày hôm đó.)"
+  },
+  {
+    "timestamp": "2025-05-07T09:45:29.096733",
+    "user": "mahesvara",
+    "conversation": "Chat 1",
+    "prompt": "",
+    "nutrition_facts": {
+      "Calories": 575.0,
+      "Protein": 32.0,
+      "Carbs": 67.0,
+      "Fat": 19.0,
+      "Fiber": 3.0,
+      "Sugar": 5.0
+    },
+    "full_response": "**Nutrition Facts**  \nCalories: 575 kcal  \nProtein: 32 g  \nCarbs: 67 g  \nFat: 19 g  \nFiber: 3 g  \nSugar: 5 g  \n\n**Tóm tắt:**  \nBún bò Huế một tô tiêu chuẩn (~575 kcal) gồm bún, thịt bò, giò heo và nước dùng đậm vị.\n\n**Phân tích chi tiết:**  \n- **Bún tươi (200 g):** ~220 kcal; Carbs = 52 g; Protein = 4 g; Fat = 0 g.  \n  (Đa phần năng lượng từ tinh bột gạo)\n- **Thịt bò nạm (60 g):** ~90 kcal; Protein = 13 g; Fat = 4 g.  \n  (Nguồn protein nạc chính)\n- **Chả/lát giò heo (40 g):** ~110 kcal; Protein = 6 g; Fat = 9 g.  \n  (Thêm protein, tăng chất béo)\n- **Nước dùng + mắm ruốc + dầu thêm (~300 ml):** ~120 kcal; Fat = 4 g; Carbs = 3 g; Sugar = 3 g.  \n  (Dầu, gia vị, đường trong nước lèo)\n- **Rau thơm, giá (40 g):** ~10 kcal; Fiber = 3 g; Carbs = 2 g.  \n  (Chủ yếu chất xơ & vitamin)\n- **Gia vị, ớt sa tế (~10 g):** ~25 kcal; Fat = 2 g; Carbs = 2 g.\n\n**Giải thích cách tính:**  \n- Lượng bún và thịt phổ biến nhất trong một tô quán ăn thông dụng.  \n- Nước dùng tính cả phần dầu nổi và gia vị, nước lèo khá béo, đặc trưng của bún bò Huế.  \n- Nguồn macros chủ yếu: Carbs từ bún, Protein từ thịt bò & giò heo, Fat từ nước dùng, giò, và sa tế.\n\n**Tổng kết:**  \nTổng cộng ~575 kcal, Protein = 32 g, Carbs = 67 g, Fat = 19 g, Fiber = 3 g, Sugar = 5 g.\n\n**Lời khuyên & lưu ý:**  \n- Muốn giảm calorie: chọn phần giò nhỏ hoặc bỏ giò heo, xin ít nước béo.  \n- Nên ăn kèm thật nhiều rau để bổ sung thêm chất xơ, cân bằng chất béo.  \n- Nếu đang kiểm soát đường huyết hoặc giảm cân, nên giảm lượng bún và hạn chế sa tế."
+  }
+]
