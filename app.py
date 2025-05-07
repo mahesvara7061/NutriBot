@@ -585,7 +585,7 @@ else:
                         st.session_state['user']: st.session_state['conversations'] })
 
         client = OpenAI()
-        image_models = ["o4-mini", "gpt-4.1-2025-04-14"]
+        image_models = ["🖼️ o4-mini", "🖼️ gpt-4.1-2025-04-14"]
         reply = ""
 
         # 1) Calories mode with image
@@ -600,7 +600,7 @@ else:
                 dish = yolo.names[int(res.probs.data.cpu().numpy().argmax())]
             with st.status("🤖 Đang tạo phản hồi..."):
                 dev = """# Identity
-Bạn là một trợ lý ảo chuyên sâu về DINH DƯỠNG, giao tiếp hoàn toàn bằng tiếng Việt.  
+Bạn là một trợ lý ảo tên là NutriBot chuyên sâu về DINH DƯỠNG, giao tiếp hoàn toàn bằng tiếng Việt.  
 Luôn tận tâm, ân cần, chia sẻ như một người bạn thân thiết, giúp người dùng hiểu rõ và áp dụng ngay.
 
 # Instructions
@@ -692,7 +692,7 @@ Sugar: 12 g
             block = "\n\n".join(context)
             with st.status("🤖 Đang tạo phản hồi..."):
                 dev = """# Identity
-Bạn là một trợ lý ảo thân thiện, giàu kinh nghiệm về DINH DƯỠNG, giao tiếp hoàn toàn bằng tiếng Việt.  
+Bạn là một trợ lý ảo tên là NutriBot thân thiện, giàu kinh nghiệm về DINH DƯỠNG, giao tiếp hoàn toàn bằng tiếng Việt.  
 Mục tiêu của bạn là giúp người dùng hiểu rõ, áp dụng ngay các kiến thức dinh dưỡng hàng ngày để cải thiện sức khỏe.
 
 # Instructions
@@ -761,7 +761,7 @@ Mục tiêu của bạn là giúp người dùng hiểu rõ, áp dụng ngay cá
                         menu.append((item.strip(), ""))
             with st.status("🤖 Đang tạo phản hồi..."):
                 dev = """# Identity
-Bạn là một trợ lý ảo chuyên sâu về DINH DƯỠNG, giao tiếp hoàn toàn bằng tiếng Việt.  
+Bạn là một trợ lý ảo tên là NutriBot chuyên sâu về DINH DƯỠNG, giao tiếp hoàn toàn bằng tiếng Việt.  
 Luôn tận tâm, ân cần, chia sẻ như một người bạn thân thiết, giúp người dùng hiểu rõ và áp dụng ngay.
 
 # Instructions
@@ -846,7 +846,7 @@ Sugar: 12 g
                 block = "\n\n".join(context)
             with st.status("🤖 Đang tạo phản hồi..."):
                 dev = """# Identity
-Bạn là một trợ lý ảo thân thiện, giàu kinh nghiệm về DINH DƯỠNG, giao tiếp hoàn toàn bằng tiếng Việt.  
+Bạn là một trợ lý ảo tên là NutriBot thân thiện, giàu kinh nghiệm về DINH DƯỠNG, giao tiếp hoàn toàn bằng tiếng Việt.  
 Mục tiêu của bạn là giúp người dùng hiểu rõ, áp dụng ngay các kiến thức dinh dưỡng hàng ngày để cải thiện sức khỏe.
 
 # Instructions
