@@ -62,7 +62,7 @@ if 'messages' not in st.session_state:
 # ── PATHS ───────────────────────────────────────────────────────────────────
 USERS_FILE = "/home/mahesvara/Documents/Classroom/ML/Project/users.json"
 DB_DIR = "/home/mahesvara/Documents/Classroom/ML/Project/chroma_dbs"
-
+YOLO_MODEL_PATH = "/home/mahesvara/Documents/Classroom/ML/Project/models/yolov11.pt"
 # ── UTILITIES ───────────────────────────────────────────────────────────────
 CONV_FILE = "/home/mahesvara/Documents/Classroom/ML/Project/chat_history.json"
 
@@ -595,7 +595,7 @@ else:
                 tmp = tempfile.NamedTemporaryFile(delete=False, suffix=os.path.splitext(img_file.name)[1])
                 tmp.write(img_file.getbuffer()); tmp.close()
                 arr = np.array(Image.open(tmp.name).convert("RGB"))
-                yolo = YOLO("yolov11_food.pt")
+                yolo = YOLO(YOLO_MODEL_PATH)
                 res = yolo.predict(source=arr, task="classify", verbose=False)[0]
                 dish = yolo.names[int(res.probs.data.cpu().numpy().argmax())]
             with st.status("🤖 Đang tạo phản hồi..."):
