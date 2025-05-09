@@ -79,11 +79,6 @@ Tạo file `.env` trong thư mục `Project` với nội dung:
 LLAMA_CLOUD_API_KEY=your_llama_cloud_api_key_here
 OPENAI_API_KEY=your_openai_api_key_here
 
-# Database Configuration
-DB_DIR=chroma_dbs
-
-# Model Configuration
-DEFAULT_MODEL=gpt-4.1-2025-04-14
 ```
 
 6. **Cập nhật đường dẫn**
